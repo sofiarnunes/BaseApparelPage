@@ -17,7 +17,7 @@ body {
   box-sizing: border-box;
   margin: 0 auto;
   color: var(--main);
-  background-image: url(/img/bg-pattern-desktop.svg);
+  background-image: url(./img/bg-pattern-desktop.svg);
   background-repeat: no-repeat;
   background-size: cover;
 }

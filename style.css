@@ -161,6 +161,11 @@ footer {
   body {
     background: none;
   }
+
+  img[alt="Logo"] {
+    width: 100px;
+  }
+
   .announcement-container {
     width: 100%;
     padding: 0;
